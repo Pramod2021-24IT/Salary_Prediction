@@ -7,7 +7,7 @@ This repository contains the analysis code and data for the FitBit tracker which
 
 ## Dashboard Sample
 
-![Screenshot 2023-08-15 155427](https://github.com/Pramod2021-24IT/FitBit_Tracker_using_Excel/assets/95674009/fe7e00f9-dab3-45ef-b1d7-34206e6f528a)
+
 
 ## Table of Contents
 
